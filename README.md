@@ -10,6 +10,7 @@ The XGBoost classifier was initialized with specific parameters to optimize its 
 
 Next, I trained a Random Forest classifier, which typically performs well on structured data. Similar to XGBoost, the model was trained on the training set, and predictions were made on the test set. The Random Forest classifier achieved an accuracy of 87.05% and an F1 score of 0.59, outperforming the XGBoost model. The confusion matrix and classification report indicated better precision and recall balance, making Random Forest a more reliable choice for this specific task.
 
+
 To summarize, this project successfully demonstrated the application of data cleaning, visualization, and machine learning techniques to predict customer churn. The Random Forest classifier emerged as the superior model, providing valuable insights and actionable predictions for managing customer retention strategies. This analysis underscores the importance of leveraging data-driven approaches to understand and mitigate customer churn.
 
 
